@@ -19,6 +19,34 @@ The project demonstrates practical skills in:
 - **Business Analysis:** churn drivers, customer segments, retention opportunities and revenue exposure
 - **Documentation:** reproducible folder structure, scripts, notebooks and structured outputs
 
+---
+
+# 📊 Power BI Dashboard
+
+The Power BI report contains an executive overview, churn-driver analysis, revenue/contract analysis and customer-risk insights.
+
+> **GitHub image-path convention:** screenshots are stored under `03_PowerBI/Screenshots/`.
+
+### Executive Overview
+
+![Executive Overview](03_PowerBI/Screenshots/executive-overview.png)
+
+### Customer Drivers
+
+![Customer Drivers](03_PowerBI/Screenshots/customer-drivers.png)
+
+### Revenue & Contracts
+
+![Revenue & Contracts](03_PowerBI/Screenshots/revenue-contracts.png)
+
+### Risk & Retention
+
+![Risk & Retention](03_PowerBI/Screenshots/risk-retention.png)
+
+> **Important:** The four screenshot filenames above should match the files committed to `03_PowerBI/Screenshots/` exactly. GitHub paths are case-sensitive.
+
+---
+
 ## 🏢 Business Problem
 
 The analysis is designed to answer:
