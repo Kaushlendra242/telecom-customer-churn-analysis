@@ -29,19 +29,19 @@ The Power BI report contains an executive overview, churn-driver analysis, reven
 
 ### Executive Overview
 
-![Executive Overview](03_PowerBI/Screenshots/Executive-Overview.png)
+![Executive Overview](03_PowerBI/Screenshots/01_Executive_Overview.png)
 
 ### Customer Drivers
 
-![Customer Drivers](03_PowerBI/Screenshots/Customer-Drivers.png)
+![Customer Drivers](03_PowerBI/Screenshots/02_Customer_Drivers.png)
 
 ### Revenue & Contracts
 
-![Revenue & Contracts](03_PowerBI/Screenshots/Revenue-Contracts.png)
+![Revenue & Contracts](03_PowerBI/Screenshots/03_Revenue_Contracts.png)
 
 ### Risk & Retention
 
-![Risk & Retention](03_PowerBI/Screenshots/Risk-Retention.png)
+![Risk & Retention](03_PowerBI/Screenshots/04_Risk_Rentention.png)
 
 > **Important:** The four screenshot filenames above should match the files committed to `03_PowerBI/Screenshots/` exactly. GitHub paths are case-sensitive.
 
