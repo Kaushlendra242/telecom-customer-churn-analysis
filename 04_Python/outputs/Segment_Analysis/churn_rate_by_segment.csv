@@ -1,0 +1,36 @@
+segment_type,segment,total_customers,churned_customers,churn_rate
+Gender,Unknown,750,207,27.6
+Gender,Female,3091,831,26.88
+Gender,Male,3202,831,25.95
+Partner,No,3115,1022,32.81
+Partner,Unknown,1000,265,26.5
+Partner,Yes,2928,582,19.88
+Dependents,No,4933,1543,31.28
+Dependents,Yes,2110,326,15.45
+Senior Citizen,Senior,1142,476,41.68
+Senior Citizen,Non-Senior,5901,1393,23.61
+Tech Support,No,3473,1446,41.64
+Tech Support,Yes,2044,310,15.17
+Tech Support,No internet service,1526,113,7.4
+Online Security,No,3498,1461,41.77
+Online Security,Yes,2019,295,14.61
+Online Security,No internet service,1526,113,7.4
+Online Backup,No,3088,1233,39.93
+Online Backup,Yes,2429,523,21.53
+Online Backup,No internet service,1526,113,7.4
+Internet Service,Fiber optic,2660,1104,41.5
+Internet Service,Unknown,1000,265,26.5
+Internet Service,DSL,2082,401,19.26
+Internet Service,No,1301,99,7.61
+Contract,Month-to-month,3875,1655,42.71
+Contract,One year,1473,166,11.27
+Contract,Two year,1695,48,2.83
+Payment Method,Electronic check,2365,1071,45.29
+Payment Method,Mailed check,1612,308,19.11
+Payment Method,Bank transfer (automatic),1544,258,16.71
+Payment Method,Credit card (automatic),1522,232,15.24
+Tenure Cohort,0-12 Months,1402,653,46.58
+Tenure Cohort,Unknown,2500,678,27.12
+Tenure Cohort,13-24 Months,647,169,26.12
+Tenure Cohort,25-48 Months,1049,222,21.16
+Tenure Cohort,Over 48 Months,1445,147,10.17

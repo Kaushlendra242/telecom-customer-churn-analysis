@@ -1,0 +1,7 @@
+1. Overall churn rate: 26.54% (1,869 of 7,043 customers).
+2. Highest churn segment for Contract: Month-to-month (42.71%).
+3. Highest churn segment for Tenure Cohort: 0-12 Months (46.58%).
+4. Highest churn segment for Internet Service: Fiber optic (41.50%).
+5. Highest churn segment for Payment Method: Electronic check (45.29%).
+6. Highest churn segment for Tech Support: No (41.64%).
+7. Churned monthly revenue: $109,419.65; revenue at risk: 30.43%.

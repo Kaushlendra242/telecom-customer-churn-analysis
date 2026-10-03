@@ -1,0 +1,6 @@
+segment,total_customers,churned_customers,churn_rate
+0-12 Months,1402,653,46.58
+Unknown,2500,678,27.12
+13-24 Months,647,169,26.12
+25-48 Months,1049,222,21.16
+Over 48 Months,1445,147,10.17
